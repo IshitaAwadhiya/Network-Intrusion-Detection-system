@@ -1,0 +1,8 @@
+flask
+scikit-learn
+xgboost
+pandas
+numpy
+pyshark
+scapy
+flask-cors
